@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "starlette-views",
+  "versions": [
+    {
+      "commit": "d1447bdf08c88749eded2a2125a3023991c217b4",
+      "tag": "0.0.4",
+      "parsed_at": "2026-10-20T21:26:54.383947+00:00"
+    }
+  ]
+}

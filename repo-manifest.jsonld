@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/starlette-views/commit/d1447bdf08c88749eded2a2125a3023991c217b4",
       "git:hexsha": "d1447bdf08c88749eded2a2125a3023991c217b4",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.0.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.0.4",
+      "repolex:parsedAt": "2026-10-20T21:26:54.383440+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/starlette-views/commit/2e03dbe884afda6dc4bfc9ffb172caf4b7ff168b",

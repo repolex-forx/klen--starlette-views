@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "klen",
+  "repo": "starlette-views",
+  "versions": [
+    {
+      "commit": "d1447bdf08c88749eded2a2125a3023991c217b4",
+      "parsed_at": "2026-10-20T21:24:34.556240+00:00",
+      "tag": "0.0.4",
+      "filetree": "filetree/d1447bdf08c88749eded2a2125a3023991c217b4.nq.gz",
+      "blobs": [
+        "blob/7f8472997c0f75f0b89fa82e94883b0110049402.nq.gz",
+        "blob/349fa04ce5d3d61d60fc670a83062858d2e79266.nq.gz",
+        "blob/80611a29c8c2c1072105f2245fc26151fe747a64.nq.gz",
+        "blob/d24856cce4dd0283a36f01d6f2ad710dee8194b7.nq.gz",
+        "blob/3612cf5ca29646155365e898a05b701b1a1ca4ab.nq.gz",
+        "blob/178e66ffe768300cd50ddddd190ecc5e14c4e241.nq.gz",
+        "blob/d937a870d97cd05918d2ab949a13e0e3d83b2c90.nq.gz",
+        "blob/2247d5f95a7193c7221b9464debe167763b4fae3.nq.gz",
+        "blob/17b21a42ef57718542e9e12b45ce507584a9dafa.nq.gz",
+        "blob/20c850c6a393ec7d20a769f5602ead5f785d716d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
